@@ -1,0 +1,2 @@
+public class boletin04 {
+}
